@@ -1,19 +1,25 @@
 {
-    "name":"draught-labor",
-    "version":"0.0.0",
-    "description":"",
-    "main":"index.js",
-    "scripts":{
-        "test":"echo \"Error: no test specified\" && exit 1"
-    },
-    "repository":{
-        "type":"git",
-        "url":"git+https://github.com/cs1193/draught-labor.git"
-    },
-    "author":"Chandresh Rajkumar Manonmani <chandresh.rm@gmail.com>",
-    "license":"UNLICENSED",
-    "bugs":{
-        "url":"https://github.com/cs1193/draught-labor/issues"
-    },
-    "homepage":"https://github.com/cs1193/draught-labor#readme"
+  "name": "draught-labor",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs1193/draught-labor.git"
+  },
+  "author": "Chandresh Rajkumar Manonmani <chandresh.rm@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cs1193/draught-labor/issues"
+  },
+  "homepage": "https://github.com/cs1193/draught-labor#readme",
+  "dependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^2.0.0"
+  }
 }
