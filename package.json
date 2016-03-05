@@ -17,9 +17,17 @@
   },
   "homepage": "https://github.com/cs1193/draught-labor#readme",
   "dependencies": {
+    "cross-spawn-async": "^2.1.9",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
-    "gulp-eslint": "^2.0.0"
+    "gulp-eslint": "^2.0.0",
+    "gulp-git": "^1.7.0",
+    "gulp-util": "^3.0.7",
+    "run-sequence": "^1.1.5",
+    "strip-debug": "^1.1.1",
+    "vinyl": "^1.1.1",
+    "vinyl-fs": "^2.4.2",
+    "vinyl-paths": "^2.1.0"
   }
 }
